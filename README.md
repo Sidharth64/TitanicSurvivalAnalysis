@@ -19,5 +19,5 @@ Python As usual, we will first download our datasets locally, and then we will l
 
 7)library(xgboost) #for applying XGboost. 
 
-8) library(sklearn.Tree) #for Decision Tree .
+8)library(sklearn.Tree) #for Decision Tree .
 
